@@ -1,25 +1,11 @@
 ## 🌐 Devcolab: Uma comunidade open source voltada ao aprendizado prático
 
-O **Devcolab** é uma iniciativa colaborativa — estilo "coLABORATÓRIO" — que visa simular o ambiente de uma empresa de tecnologia real, promovendo a troca de experiências e o aprendizado prático com base em projetos. Aqui, cada interação busca refletir o dia a dia de áreas como desenvolvimento, análise e ciência de dados, automações, DevOps e mais, tudo dentro da filosofia do open source e com metodologia de aprendizado por projetos (PBL).
+O **Devcolab** é uma iniciativa colaborativa — estilo "coLABORATÓRIO" — que visa simular o ambiente de uma empresa de tecnologia real, promovendo a troca de experiências e o aprendizado prático com base em projetos. Aqui, cada interação busca refletir o dia a dia de áreas como desenvolvimento, análise e ciência de dados, automações, DevOps e outras diversas áreas do TI, tudo dentro da filosofia do open source e com metodologia da aprendizagem baseada em projetos (ABP).
 
 ### 🎯 Objetivos principais:
 
-* **Experiência realista**: reproduzir o fluxo de uma empresa de tecnologia — criação de projetos, definição de requisitos, planejamento ágil, desenvolvimento, testes, análise de resultados e deploy.
-* **Interação por papéis**: cada participante atua em funções típicas de uma equipe multidisciplinar, por exemplo:
-
-  * **Dev (backend/frontend)** — implementa APIs, interfaces, resolve issues.
-  * **DBA** — projeta esquemas, otimiza queries, gerencia bancos de dados e desempenho.
-  * **DevOps** — configura pipelines CI/CD, infraestrutura como código (IaC), deploy seguro.
-  * **Gestor de automações** — orquestra fluxos, usa ferramentas low-code e no-code, cria automações inteligentes (RPA).
-  * **Analista/Cientista de dados** — coleta, limpa, analisa dados, desenvolve dashboards, aplica ML simples.
-* **Low‑code / no‑code** como aliadas: ao lado da programação, há ênfase no uso de plataformas como Zapier, n8n, Power Automate para criar integrações, prototipagem e automações rápidas.
-
-### 🛠 Metodologia: Aprendizado Baseado em Projetos (PBL)
-
-* Cada projeto nasce de um **desafio realista** (exemplo: "automatizar o envio de relatórios diários", ou "criar um dashboard de indicadores de repositório open source").
-* **Papéis são distribuídos**: você escolhe ou é alocado conforme interesse e experiência.
-* O grupo segue um fluxo: planejamento, divisão de tarefas, desenvolvimento, revisões cruzadas, deploy, documentações e apresentação.
-* Dessa forma, o aprendizado vai além da simples codificação — inclui colaboração, comunicação, planejamento e entrega.
+* **Experiência realista**: reproduzir o fluxo de uma empresa de tecnologia — criação de projetos, definição de requisitos, planejamento, desenvolvimento, testes, análise de resultados e deploy.
+* **Interação por papéis**: cada participante atua em funções típicas de uma equipe multidisciplinar
 
 ### 🌱 Cultura open source & colaboração
 
