@@ -1,6 +1,6 @@
 ## 🌐 Devcolab: Uma comunidade open source voltada ao aprendizado prático
 
-O **Devcolab** é uma iniciativa colaborativa — estilo "colaboratório" — que visa simular o ambiente de uma empresa de tecnologia real, promovendo a troca de experiências e o aprendizado prático com base em projetos. Aqui, cada interação busca refletir o dia a dia de áreas como desenvolvimento, análise e ciência de dados, automações, DevOps e mais, tudo dentro da filosofia do open source e com metodologia de aprendizado por projetos (PBL).
+O **Devcolab** é uma iniciativa colaborativa — estilo "coLABORATÓRIO" — que visa simular o ambiente de uma empresa de tecnologia real, promovendo a troca de experiências e o aprendizado prático com base em projetos. Aqui, cada interação busca refletir o dia a dia de áreas como desenvolvimento, análise e ciência de dados, automações, DevOps e mais, tudo dentro da filosofia do open source e com metodologia de aprendizado por projetos (PBL).
 
 ### 🎯 Objetivos principais:
 
