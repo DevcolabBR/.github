@@ -1,6 +1,3 @@
-Aqui está a versão ampliada, agora destacando que o Devcolab é um **ambiente de aprendizado contínuo e colaborativo**, baseado em **Problem‑Based Learning (PBL)** e **Project‑Based Learning (PjBL)**:
-
----
 
 > 👋 **Seja bem‑vindo ao Devcolab — o ecossistema de colaboração prática para quem quer crescer em tecnologia, o tempo todo!**
 >
