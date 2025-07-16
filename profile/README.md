@@ -13,7 +13,6 @@ O **Devcolab** é uma iniciativa colaborativa — estilo "coLABORATÓRIO" — qu
 
 * **Contribuições diversas**: além de código, aceita conteúdo, documentação, tutoriais e traduções — todas formas cruciais de fortalecer um projeto .
 * **Código de conduta e ambiente acolhedor**: com política de tolerância zero a comportamentos inadequados, busca manter o espaço seguro e acolhedor 
-* **Onboarding facilitado**: documentação clara, issues etiquetadas ("boa primeira issue", "documentação", etc.), e mentoria para novos membros — boas práticas recomendadas para comunidades open source 
 
 ---
 
