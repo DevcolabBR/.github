@@ -9,7 +9,7 @@ O **Devcolab** é uma iniciativa colaborativa — estilo "coLABORATÓRIO" — qu
 
 ### 🌱 Cultura open source & colaboração
 
-Inspirado em comunidades consolidadas ([locaweb.com.br][1]), o Devcolab valoriza:
+ O Devcolab valoriza:
 
 * **Contribuições diversas**: além de código, aceita conteúdo, documentação, tutoriais e traduções — todas formas cruciais de fortalecer um projeto .
 * **Código de conduta e ambiente acolhedor**: com política de tolerância zero a comportamentos inadequados, busca manter o espaço seguro e acolhedor ([opensource.guide][2]).
